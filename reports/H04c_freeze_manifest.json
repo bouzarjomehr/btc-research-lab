@@ -1,0 +1,15 @@
+{
+    "timestamp": "2026-06-25T16:59:46.358171",
+    "strategy": "H04c",
+    "status": "validated_edge",
+    "phase": "Phase5_Productionization",
+    "files": [
+        "data/signals/h04c_signals.parquet",
+        "data/signals/h04c_executable_signals.parquet",
+        "data/backtests/h04c_trades.parquet",
+        "data/backtests/h04c_paper_trades.parquet",
+        "data/equity/h04c_equity.parquet",
+        "reports/H04c_specification.md",
+        "reports/H04c_summary.md"
+    ]
+}
